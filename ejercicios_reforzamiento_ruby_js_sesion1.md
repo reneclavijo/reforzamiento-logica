@@ -264,7 +264,7 @@ Ejemplos:
 
 ## Ejercicio 11 - Primo
 
-Dado un número 1 >= n <= 100, devolver en forma de texto si es un número primo o no.
+Dado un número 1 <= n <= 100, devolver en forma de texto si es un número primo o no.
 
 Ejemplos:
 
